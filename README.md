@@ -15,12 +15,9 @@ By providing interpretable, data-driven tools for healthcare practitioners, this
 ### Keywords:
 Pre-exposure prophylaxis (PrEP), HIV prevention, Machine learning, Generative artificial intelligence (Gen AI), Risk prediction, Preventive healthcare, Clinical decision-making, Data-driven methods, Healthcare optimization.
 
----
-
-### Evaluation Prototypes Link: 
-[Access the prototypes](http://202.80.238.234:23380/)
-#### Profile Input Form
+## Evaluation Prototypes Link: [Access the prototypes](http://202.80.238.234:23380/)
+### Profile Input Form
 ![My Local Image](/images/prototype.png)
-#### Evaluations
+### Evaluations
 ![My Local Image](/images/profileevaluation.png)
 
