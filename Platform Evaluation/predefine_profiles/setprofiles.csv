@@ -1,0 +1,26 @@
+gender,last_6_months,partner_gender,partner_multiple,sex_kind,partner_discuss,partner_hiv_status,partner_condom,sti_6_months,injected_drugs,sex_party,sex_for_money,doctor
+Man,Yes,Both,No,Oral,Yes,Always,Always,Never,Never,No,No,0%
+Man,No,Both,No,Oral,Yes,I don’t ask,Always,Never,Never,No,No,0%
+Man,Yes,Both,No,Oral,Yes,Sometimes,Always,Never,Never,No,No,0%
+Woman,No,Male,No,Vaginal,No,Always,Sometimes,Never,Never,No,No,25%
+Prefer not to answer,Yes,Male,No,"Anal, Oral",No,I don’t ask,Always,Unsure,Never,No,No,25%
+Woman,Yes,Male,No,"Vaginal, Anal, Oral",Yes,I don’t ask,Never,Never,Never,No,No,50%
+Man,Yes,Female,Yes,"Vaginal, Oral",No,I don’t ask,Always,Never,Never,No,No,50%
+Non-binary,No,Both,No,Anal,Yes,Sometimes,Always,Never,Never,Yes,No,50%
+Man,No,Both,No,Anal,No,I don’t ask,Always,Never,Never,Yes,No,50%
+Man,Yes,Female,No,Vaginal,Yes,I don’t ask,Sometimes,Never,Never,No,No,50%
+Trans man,Yes,Male,No,Oral,Yes,Always,Never,Never,Yes,No,No,75%
+Prefer not to answer,Yes,Both,No,Anal,Yes,Always,Sometimes,Never,Yes,No,No,75%
+Woman,Yes,Male,Yes,"Vaginal, Oral",Yes,Sometimes,Never,Never,Never,No,No,100%
+Man,Yes,Male,Yes,"Anal, Oral",Yes,Always,Never,Never,Never,Yes,No,100%
+Woman,Yes,Male,No,"Vaginal, Anal, Oral",No,I don’t ask,Never,Unsure,Never,No,Yes,100%
+Woman,Yes,Male,Yes,Vaginal,Yes,I don’t ask,Sometimes,Yes,Never,No,Prefer not to answer,100%
+Man,Yes,Male,Yes,"Anal, Oral",Yes,Always,Sometimes,Yes,Yes,Yes,No,100%
+Non-binary,Yes,Both,Yes,"Vaginal, Anal, Oral",Yes,I don’t ask,Sometimes,Never,Never,No,No,100%
+Trans man,Yes,Both,Yes,"Anal, Oral",Yes,I don’t ask,Always,Yes,Never,No,No,100%
+Man,Yes,Male,Yes,"Anal, Oral",No,I don’t ask,Never,Never,Never,No,No,100%
+Man,Yes,Male,Yes,Anal,Yes,Always,Never,Yes,Never,No,No,100%
+Man,No,Male,Yes,"Anal, Oral",Yes,Sometimes,Always,Never,Never,No,No,100%
+Woman,Yes,Both,Yes,"Vaginal, Oral",No,I don’t ask,Sometimes,Unsure,Never,No,No,100%
+Man,Yes,Male,Yes,Anal,Yes,I don’t ask,Always,Never,Never,Yes,No,100%
+Woman,Yes,Male,Yes,"Vaginal, Oral",No,I don’t ask,Always,Yes,Never,No,Yes,100%
