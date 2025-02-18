@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A Framework Integrating Machine Learning and Generative AI for Optimizing HIV Pre-Exposure Prophylaxis (PrEP) Uptake and Recommendations"
+authors:
+  - family-names: Phiphatkunarnon
+    given-names: Panyaphon
+    orcid: "0000-0001-5804-6106"
+    email: panyaphon_p@cmu.ac.th
+  - family-names: Kitro
+    given-names: Amornphat
+    orcid: "0000-0003-4435-8090"
+    email: amornphat.kit@cmu.ac.th
+  - family-names: Suksatit
+    given-names: Benjamas
+    orcid: "0000-0002-6939-4672"
+    email: benjamas.s@cmu.ac.th
+  - family-names: Songsiriphan
+    given-names: Chaiwat
+    email: amanoginji_juice@hotmail.com
+  - family-names: Tran
+    given-names: Do
+    orcid: "0000-0001-7144-1629"
+    email: do.tran8@gilead.com
+  - family-names: Neo
+    given-names: Boon-Leong
+    orcid: "0000-0002-6502-050X"
+    email: boon-leong.neo@gilead.com
+  - family-names: Tepsan
+    given-names: Worawit
+    orcid: "0000-0001-6423-9633"
+    email: worawit.tepsan@cmu.ac.th
+    corresponding: true
+
+affiliations:
+  - name: International College of Digital Innovation, Chiang Mai University, Chiang Mai, Thailand
+  - name: Love Foundation, Chiang Mai, Thailand
+  - name: Department of Community Medicine, Faculty of Medicine, Chiang Mai University, Chiang Mai, Thailand
+  - name: Environmental and Occupational Medicine Excellence Center, Faculty of Medicine, Chiang Mai University, Chiang Mai, Thailand
+  - name: Faculty of Nursing, Chiang Mai University
+  - name: Gilead Sciences Inc, CA, US and Singapore
+  - name: Safe Clinic, Bangkok
+
+date-released: "2025-02-18"
+version: "1.0"
+url: "https://github.com/wtepsan/PrEP-AI-Recommendations"
