@@ -1,4 +1,5 @@
-# PrEP-AI-Recommendations
+# A Framework Integrating Machine Learning and Generative AI for Optimizing HIV Pre-Exposure Prophylaxis (PrEP) Uptake and Recommendations
+
 ![My Local Image](/images/Figure1.png)
 
 ## Abstract
