@@ -14,8 +14,8 @@ Pre-exposure prophylaxis (PrEP), HIV prevention, Machine learning, Generative ar
 ## Evaluation Prototypes Link: [Access the prototypes](http://202.80.238.234:23380/)
 
 ### Profile Input Form
-![My Local Image](/images/prototype.png)
+<img src="/images/prototype.png" width="600">
 
 ### Evaluations
-![My Local Image](/images/profileevaluation.png)
+<img src="/images/profileevaluation.png" width="600">
 
